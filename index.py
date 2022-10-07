@@ -1,1 +1,2 @@
-print("this is git")
+num1 = 10
+print(num)
